@@ -1,5 +1,6 @@
 # Wheel-of-Life-progression-template-chart-for-obsidian
 
+```
 <%*
 // =============================================================================
 // WHEEL OF LIFE QUARTERLY CHART - TEMPLATER VERSION
@@ -351,3 +352,4 @@ try {
   console.error("Wheel of Life chart error:", error);
 }
 _%>
+```
